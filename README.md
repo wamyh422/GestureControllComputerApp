@@ -1,2 +1,2 @@
-# Hello-worldd
-Hello again
+# wxPY
+Simple GUI developed by python.
